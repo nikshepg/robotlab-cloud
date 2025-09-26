@@ -90,7 +90,7 @@ RobotLab Cloud is a powerful platform that automatically generates complete robo
 
 5. **Open your browser**
    ```
-   http://localhost:8000
+   http://localhost:8000/ui
    ```
    or use:
    firefox robotlab_web_ui.html 
